@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1978Gabriel
 - 👀 I’m interested in improving my developer level.
-- 🌱 I’m currently learning SQL language and soon I'm going to JAVA or PHP.
+- 🌱 I'm currently studying MySQL, JavaScript, HTML5, CSS3 and React.
 - 💞️ I’m looking to collaborate on in helping as much as possible.
 - 📫 How to reach me: send an email to 1978gabrielsouza@gmail.com ...
 
