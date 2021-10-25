@@ -23,3 +23,8 @@
   ![Snake animation](https://github.com/1978gabriel/1978gabriel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/1978Gabriel/count.svg" />
+ </p>
