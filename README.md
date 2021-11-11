@@ -24,7 +24,7 @@
  
 </div>
   
-  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
+   <b>Total de visitas no meu perfil :detective: </b><br>
    <img alingn="center" src="https://profile-counter.glitch.me/1978Gabriel/count.svg" />
  </p>
