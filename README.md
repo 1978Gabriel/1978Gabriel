@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/1978gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1978gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1978gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1978gabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -26,6 +26,7 @@
 </div>
   
  <p align="center"> 
-   <b>Total de visitas no meu perfil :detective: </b><br>
+   :detective:<br>
+   <b>Total de visitas no meu perfil</b><br>
    <img alingn="center" src="https://profile-counter.glitch.me/1978Gabriel/count.svg" />
  </p>
